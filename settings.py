@@ -7,7 +7,7 @@ PASSWORD = "PzI6q0dCQaI9dBN7"
 def get_password():
     return PASSWORD
 
-
+# URI = "11e3470a-ec3d-4da1-888c-7a4a9c589b1e"
 URI = "mongodb+srv://admin:PzI6q0dCQaI9dBN7@parsermessagesgroupboto.c0le9v4.mongodb.net/?retryWrites=true&w=majority"
 def get_uri():
     return URI
